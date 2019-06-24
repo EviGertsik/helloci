@@ -1,4 +1,4 @@
-helloci (commit for Jenkins practice)
+helloci (second commit for Jenkins practice)
 =======
 
 Test projects for Git training
